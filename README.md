@@ -1,17 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Merhaba,%20Ben%20Elif&fontSize=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Elif%20Miray&fontSize=50" />
 
-<h1 align="center">Hi 👋, I'm Elif</h1>
+<h1 align="center">Hi 👋, I'm Elif Miray</h1>
 <h3 align="center">A university student passionate about AI & Big Data</h3>
 
 <p align="center">
-🎓 2026 yılında mezun oluyorum.<br>
-🧠 Beyin tümörü sınıflandırma modelleri (CNN, ResNet, EfficientNet) ve tıbbi görüntüleme projeleri geliştiriyorum.<br>
-🚗 Teknofest için Deep Reinforcement Learning ile VRP (Araç Rotalama Problemi) üzerinde çalışıyorum.<br>
-⚙️ Apache Kafka, Spark ve Docker ile veri boru hatları (data pipelines) oluşturuyorum.<br>
-📫 Bana ulaşmak için: <b>elifmiraykaraman@icloud.com</b>
+🧠 Developing brain tumor classification models (CNN, ResNet, EfficientNet) and medical imaging projects.<br>
+🚗 Working on VRP (Vehicle Routing Problem) using Deep Reinforcement Learning for Teknofest.<br>
+⚙️ Building data pipelines with Apache Kafka, Spark, and Docker.<br>
+📫 How to reach me: <b>elifmiraykaraman@icloud.com</b>
 </p>
 
-<h3 align="center">Bağlantılarım:</h3>
+<h3 align="center">Connect with me:</h3>
 
 <table align="center">
 <tr>
@@ -41,7 +40,7 @@
 </tr>
 </table>
 
-<h3 align="center">Kullandığım Teknolojiler ve Araçlar:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <table align="center">
 <tr>
