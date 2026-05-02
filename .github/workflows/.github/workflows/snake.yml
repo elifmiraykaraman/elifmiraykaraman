@@ -2,7 +2,6 @@ name: Generate Snake
 
 on:
   schedule:
-    # Her 12 saatte bir otomatik güncellenmesi için
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
